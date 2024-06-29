@@ -9,10 +9,10 @@ This Pokémon Clustering Analysis project applies k-means clustering to classify
 ## Results
 The analysis categorizes Pokémon into three main clusters:
 
-Cluster 1: Lower-tier Pokémon with generally lower stats.
-Cluster 2: Offensively oriented Pokémon with high HP and Attack.
-Cluster 3: Defensive Pokémon excelling in Speed and Defense.
-Each cluster's characteristics can guide players in team building and strategy development.
+- Cluster 1: Lower-tier Pokémon with generally lower stats.
+- Cluster 2: Offensively oriented Pokémon with high HP and Attack.
+- Cluster 3: Defensive Pokémon excelling in Speed and Defense.
+- Each cluster's characteristics can guide players in team building and strategy development.
 
 ---
 
